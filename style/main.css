@@ -1,0 +1,128 @@
+body {
+  height: 100vh;
+}
+
+nav {
+  position: fixed;
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+main {
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.intext {
+  height: 29px;
+  width: 103px;
+}
+
+.topbox {
+  height: 28px;
+  width: 215px;
+}
+
+.searchbox {
+  height: 18px;
+  width: 199px;
+}
+
+.icons {
+  height: 22px;
+  width: 222px;
+}
+
+.comp {
+  height: 22px;
+  width: 22px;
+}
+
+.like {
+  height: 22px;
+  width: 22px;
+}
+
+.profile {
+  height: 22px;
+  width: 22px;
+}
+
+main {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+article {
+  width: 700px;
+  margin-top: 100px;
+  margin-right: 500px;
+}
+
+.capbox {
+  display: flex;
+  position: relative;
+  height: 825px;
+  width: 616px;
+  border: 1px solid #dbdbdb;
+}
+
+.boxone {
+  height: 50px;
+  width: 615px;
+}
+
+.mainpic {
+  height: 500px;
+  width: 616px;
+  padding-top: 50px;
+  margin-left: -174px;
+}
+
+.main-side {
+  width: 350px;
+  margin-inline-start: 90%;
+  margin-block-start: -831px;
+}
+
+.mini-file {
+  display: flex;
+}
+
+.fsidebar {
+  height: 291px;
+  width: 297px;
+}
+
+.ftopbar {
+  border: 1px solid #000000;
+}
+
+.ftextbar {
+  height: 18px;
+  width: 200px;
+  font-size: 14px;
+  line-height: 18px;
+  text-decoration: none solid rgb(142, 142, 142);
+}
+
+.fshowall {
+  height: 14px;
+  width: 44px;
+  margin-left: 250px;
+}
+
+.stranger {
+  height: 40px;
+  border: 1px solid #000000;
+}
+
+.frd-num {
+  height: 13px;
+  width: 180px;
+  font-size: 14px;
+  margin-left: 50px;
+}
